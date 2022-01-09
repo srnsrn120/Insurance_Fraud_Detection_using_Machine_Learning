@@ -2,14 +2,6 @@
 
 ## Demo
 
-
-
-![prediction](assets/image/prediction.PNG)
-
-Prediction saved to a particular folder - 
-
-![prediction](assets/image/page.PNG)
-
 ## About this Project
 
 This project is based on **Insurance Domain**.
