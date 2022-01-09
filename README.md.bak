@@ -2,7 +2,7 @@
 
 ## Demo
 
-
+Link to the Project - https://fraud-mldeploy.herokuapp.com/
 
 ![prediction](assets/image/prediction.PNG)
 
@@ -40,7 +40,7 @@ You can also use this project in your system by following thses simple steps -:
 ### Clone this Repo - 
 
 ```
-git clone https://github.com/srnsrn120/Insurance_Fraud_Detection_using_Machine_Learning.git
+git clone https://github.com/Rishav-hub/Insurance-Fraud-Detection-using-Machine-Learning.git
 
 ```
 
@@ -59,7 +59,11 @@ python main.py
 
 ### You are done and Good to go
 
+## Deployment
 
+This project is deployed in Heroku Cloud
+
+![deploy](assets/image/deploy.PNG)
 
 
 ## Future work
